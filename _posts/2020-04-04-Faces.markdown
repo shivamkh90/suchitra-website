@@ -1,7 +1,7 @@
 ---
-title: ABC
-subtitle: ABC
-thumbnail: side-face-bg.jpg
+title: Composite Marble
+subtitle: 
+thumbnail: deer.png
 images:
 - hoor-bg-2.jpg
 - innocent-bg.jpg
