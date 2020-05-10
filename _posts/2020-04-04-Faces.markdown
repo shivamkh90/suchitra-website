@@ -1,6 +1,6 @@
 ---
-title: Composite Marble
-subtitle: 
+title: Composite Marbles
+subtitle:
 thumbnail: deer.png
 images:
 - hoor-bg-2.jpg
