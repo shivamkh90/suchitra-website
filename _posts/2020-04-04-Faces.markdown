@@ -6,5 +6,4 @@ images:
 - hoor-bg-2.jpg
 - innocent-bg.jpg
 - side-face-bg.jpg
-- ganpati-bg.png
 ---
