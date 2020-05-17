@@ -1,7 +1,7 @@
 ---
 title: Marble Temples
 subtitle:
-thumbnail: elephantfinal.jpg
+thumbnail: inlay carving temple.jpg
 images:
-- elephantwhite-1.jpg
+- _TRP inlay carvin temple
 ---
