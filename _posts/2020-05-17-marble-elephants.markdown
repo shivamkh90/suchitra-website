@@ -1,7 +1,7 @@
 ---
 title: Marble Handicrafts
 subtitle:
-thumbnail: elephant.jpg
+thumbnail: elephantfinal.jpg
 images:
 
 ---
