@@ -1,7 +1,7 @@
 ---
 title: Composite Marbles
 subtitle:
-thumbnail: deer.png
+thumbnail: Untitled-1.jpg
 images:
 - hoor-bg-2.jpg
 - innocent-bg.jpg
