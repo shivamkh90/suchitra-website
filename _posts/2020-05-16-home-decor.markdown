@@ -1,7 +1,7 @@
 ---
 title: Home Decor
 subtitle:
-thumbnail: deer.png
+thumbnail: Untitled-1.jpg
 images:
-- elephantwhite-1.jpg
+- deerwhite.png copy
 ---
