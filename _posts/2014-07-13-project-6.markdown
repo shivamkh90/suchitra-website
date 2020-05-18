@@ -1,7 +1,7 @@
 ---
 title: God Figures
-subtitle: 
-thumbnail: ganpati-bg.png
+subtitle:
+thumbnail: ganeshathumbnail.jpg
 images:
 - ganpati-bg.png
 ---
