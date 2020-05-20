@@ -3,6 +3,6 @@ title: Home Decor
 subtitle:
 thumbnail: Untitled-1.jpg
 images:
-- deer.png
+- deer copy.png
 - woddencandlestand.jpg
 ---
