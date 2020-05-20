@@ -4,5 +4,5 @@ subtitle:
 thumbnail: inlay carving temple.jpg
 images:
 - temple-inlay.png
-- ghantipatterntemple.jpg
+- ghantipatterntemple.png
 ---
