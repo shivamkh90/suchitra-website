@@ -11,13 +11,13 @@
                 {% for post in site.posts %}
                     {% assign mid = forloop.index %}
                     <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a href="img/portfolio/{{ post.images[0] }}" data-fancybox="gallery{{ mid }}" class="portfolio-link">
+                        <a href="img/{{ post.images[0] }}" data-fancybox="gallery{{ mid }}" class="portfolio-link">
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                            <img src="img/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                         </a>
                         <div class="portfolio-caption">
                             <h4>{{ post.title }}</h4>
@@ -28,7 +28,7 @@
                         <div class="hidden">
                         {% for image in post.images %}
                             {% unless forloop.first %}
-                                <a data-fancybox="gallery{{ mid }}" href="img/portfolio/{{ image }}"><img src="img/portfolio/{{ image }}"></a>
+                                <a data-fancybox="gallery{{ mid }}" href="img/{{ image }}"><img src="img/{{ image }}"></a>
                             {% endunless %}
                         {% endfor %}
                         </div>
