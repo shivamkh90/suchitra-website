@@ -3,7 +3,7 @@ title: Composite Marbles
 subtitle:
 thumbnail: bust.jpg
 images:
-- hoor-bg-2.jpg
-- innocent-bg.jpg
-- side-face-bg.jpg
+- compositemarblebust3.png
+- compositemarblebust1.png
+- compositemarblebust2.png
 ---
