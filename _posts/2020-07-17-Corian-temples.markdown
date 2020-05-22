@@ -1,7 +1,7 @@
 ---
 title: Corian Temples
 subtitle:
-thumbnail: elephantfinal.jpg
+thumbnail: thumbnailovalcorian.jpg
 images:
-- ovalcorean.png
+- ovalcorian.png
 ---
