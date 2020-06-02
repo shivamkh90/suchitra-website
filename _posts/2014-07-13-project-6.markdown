@@ -5,4 +5,5 @@ thumbnail: ganeshathumbnail.jpg
 images:
 - ganpati-bg.png
 - compositshivji.png
+- makranamatarani.png
 ---
