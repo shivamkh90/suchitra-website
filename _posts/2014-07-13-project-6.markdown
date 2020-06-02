@@ -8,4 +8,5 @@ images:
 - makranamatarani.png
 - makranaradhakrishn.png
 - makaranaramdarbar.png
+- makranalakshmiganesh.png
 ---
