@@ -6,4 +6,5 @@ images:
 - compositemarblebust3.png
 - compositemarblebust1.png
 - compositemarblebust2.png
+- twochild.png
 ---
