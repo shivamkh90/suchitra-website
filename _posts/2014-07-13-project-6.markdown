@@ -7,4 +7,5 @@ images:
 - compositshivji.png
 - makranamatarani.png
 - makranaradhakrishn.png
+- makaranaramdarbar.png
 ---
