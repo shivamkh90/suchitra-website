@@ -6,4 +6,5 @@ images:
 - ganpati-bg.png
 - compositshivji.png
 - makranamatarani.png
+- makranaradhakrishn.png
 ---
