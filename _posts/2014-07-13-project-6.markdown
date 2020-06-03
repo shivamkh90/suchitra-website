@@ -10,4 +10,5 @@ images:
 - makranaramdarbar.png
 - makranalakshmiganesh.png
 - makranashivparivar.png
+- compositmarbleganesh1.png
 ---
