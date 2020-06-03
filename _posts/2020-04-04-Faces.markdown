@@ -7,4 +7,5 @@ images:
 - compositemarblebust1.png
 - compositemarblebust2.png
 - twochild.png
+- pubgman.png
 ---
