@@ -8,4 +8,5 @@ images:
 - compositemarblebust2.png
 - twochild.png
 - smallflowerchild.png
+- 2pubgman.png
 ---
