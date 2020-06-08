@@ -9,4 +9,9 @@ images:
 - twochild.png
 - smallflowerchild.png
 - 2pubgman.png
+- bigchildcouple.png
+- compositemarble4.png
+- compositemarble5.png
+- compositemarble6.png
+- compositemarble7.png
 ---
