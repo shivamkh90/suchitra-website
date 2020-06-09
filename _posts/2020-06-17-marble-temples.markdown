@@ -6,4 +6,5 @@ images:
 - temple-inlay.png
 - ghantipatterntemple.png
 - blackbackgroundcarvinginlaytemple1.jpg
+- transparentinlaycarvingtemple1.png
 ---
