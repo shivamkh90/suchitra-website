@@ -9,7 +9,7 @@ images:
 - twochild.jpg
 - smallflowerchild.jpg
 - 2pubgman.jpg
-- bigchildcouple.jpg
+- bigchildcouplecopy.jpg
 - compositemarble4.jpg
 - compositemarble5.jpg
 - compositemarble6.jpg
