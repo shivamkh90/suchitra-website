@@ -4,11 +4,11 @@ subtitle:
 thumbnail: ganeshathumbnail.jpg
 images:
 - ganpati-bg.png
-- compositshivji.png
+- compositshivji.jpg
 - makranamatarani.png
 - makranaradhakrishn.png
 - makranaramdarbar.png
-- makranalakshmiganesh.png
-- makranashivparivar.png
-- compositmarbleganesh1.png
+- makranalakshmiganesh.jpg
+- makranashivparivar.jpg
+- compositmarbleganesh1.jpg
 ---

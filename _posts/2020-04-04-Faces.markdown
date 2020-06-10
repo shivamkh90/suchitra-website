@@ -3,12 +3,12 @@ title: Composite Marbles
 subtitle:
 thumbnail: bust.jpg
 images:
-- compositemarblebust3.png
-- compositemarblebust1.png
-- compositemarblebust2.png
+- compositemarblebust3.jpg
+- compositemarblebust1.jpg
+- compositemarblebust2.jpg
 - twochild.png
-- smallflowerchild.png
-- 2pubgman.png
+- smallflowerchild.jpg
+- 2pubgman.jpg
 - bigchildcouple.png
 - compositemarble4.png
 - compositemarble5.png

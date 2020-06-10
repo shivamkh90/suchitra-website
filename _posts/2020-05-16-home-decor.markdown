@@ -5,7 +5,7 @@ thumbnail: Untitled-1.jpg
 images:
 - deercandlestand.png
 - woddencandlestand.png
-- birdpair.png
+- birdpair.jpg
 - glasscandlestand1.png
 - greenvase1.png
 - bookoflife.png
