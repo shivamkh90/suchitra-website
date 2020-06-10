@@ -3,8 +3,7 @@ title: Marble Temples
 subtitle:
 thumbnail: inlay carving temple.jpg
 images:
-- temple-inlay.png
-- ghantipatterntemple.png
+- temple-inlay.jpg
+- ghantipatterntemple.jpg
 - blackbackgroundcarvinginlaytemple1.jpg
-- transparentinlaycarvingtemple1.png
 ---

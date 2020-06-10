@@ -3,15 +3,15 @@ title: Home Decor
 subtitle:
 thumbnail: Untitled-1.jpg
 images:
-- deercandlestand.png
-- woddencandlestand.png
+- deercandlestand.jpg
+- woddencandlestand.jpg
 - birdpair.jpg
-- glasscandlestand1.png
-- greenvase1.png
-- bookoflife.png
-- greenvase2.png
-- greenvase3.png
-- greenvase4.png
-- mopvase1.png
-- blueglassvase.png
+- glasscandlestand1.jpg
+- greenvase1.jpg
+- bookoflife.jpg
+- greenvase2.jpg
+- greenvase3.jpg
+- greenvase4.jpg
+- mopvase1.jpg
+- blueglassvase.jpg
 ---

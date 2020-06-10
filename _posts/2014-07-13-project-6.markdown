@@ -3,11 +3,11 @@ title: God Figures
 subtitle:
 thumbnail: ganeshathumbnail.jpg
 images:
-- ganpati-bg.png
+- ganpati-bg.jpg
 - compositshivji.jpg
-- makranamatarani.png
-- makranaradhakrishn.png
-- makranaramdarbar.png
+- makranamatarani.jpg
+- makranaradhakrishn.jpg
+- makranaramdarbar.jpg
 - makranalakshmiganesh.jpg
 - makranashivparivar.jpg
 - compositmarbleganesh1.jpg

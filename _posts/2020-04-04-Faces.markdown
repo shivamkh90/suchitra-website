@@ -6,12 +6,12 @@ images:
 - compositemarblebust3.jpg
 - compositemarblebust1.jpg
 - compositemarblebust2.jpg
-- twochild.png
+- twochild.jpg
 - smallflowerchild.jpg
 - 2pubgman.jpg
-- bigchildcouple.png
-- compositemarble4.png
-- compositemarble5.png
-- compositemarble6.png
-- compositemarble7.png
+- bigchildcouple.jpg
+- compositemarble4.jpg
+- compositemarble5.jpg
+- compositemarble6.jpg
+- compositemarble7.jpg
 ---
