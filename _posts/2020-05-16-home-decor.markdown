@@ -14,4 +14,8 @@ images:
 - greenvase4.jpg
 - mopvase1.jpg
 - blueglassvase.jpg
+- bluepeacock.jpg
+- redbird.jpg
+- yellowbluevase.jpg
+- eggglassvase.jpg
 ---
